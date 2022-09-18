@@ -10,6 +10,7 @@ The only dependency is Python 3.
 ## Installation
 
 1. Get `main.py` somehow.
+1. Optionally install `ifstat` if you want networking statistics.
 1. `./main.py`
 
 ## Output sample
